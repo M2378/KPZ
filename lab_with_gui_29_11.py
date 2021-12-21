@@ -1,4 +1,4 @@
-import os 
+import os
 from kivy.core.window import Window
 from kivy.properties import ObjectProperty, partial
 from kivy.uix.checkbox import CheckBox
